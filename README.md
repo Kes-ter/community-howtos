@@ -31,14 +31,3 @@ Found something outdated or missing? Open an issue or submit a PR.
 See [how to contribute](./contributing/01-how-to-contribute.mdx).
 
 > Codetopia Community · [community.codetopia.org](https://community.codetopia.org)
-
-# Discord Guide
-
-## What is Discord?
-
-Discord is a free communication platform built around communities. Think of
-it as a place where people with shared interests gather to chat, learn, and
-collaborate. It is organized into servers and the Codetopia Community has
-its own server where all the action happens.
-
----
